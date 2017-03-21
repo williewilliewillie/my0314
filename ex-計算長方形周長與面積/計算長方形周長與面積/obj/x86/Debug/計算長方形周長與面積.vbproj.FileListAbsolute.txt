@@ -12,3 +12,6 @@ C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\計算�
 F:\VB2010\ch2\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.exe
 F:\VB2010\ch2\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.xml
 F:\VB2010\ch2\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.pdb
+C:\Users\790\Desktop\my0314\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.exe
+C:\Users\790\Desktop\my0314\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.xml
+C:\Users\790\Desktop\my0314\ex-計算長方形周長與面積\計算長方形周長與面積\obj\x86\Debug\計算長方形周長與面積.pdb
